@@ -1,0 +1,36 @@
+html
+{
+  margin: 10px 0 ;
+  padding: 0 ;
+  text-align: center ;
+  font:1em Courier New, monospace;
+  background: #9E8479 ;
+}
+
+body
+{
+	width:800px ;
+	background:#FFEFB6 ;
+	margin:0 auto;
+	text-align:justify;
+	border:2px solid #000;
+}
+
+img
+{
+	border-radius: 50%;
+	float: left;
+	margin: 0 10px 10px 10px;
+}
+
+p
+{
+	margin:0 10px 0 10px;
+}
+
+footer
+{
+	margin-top:20px;
+	font-size: 10px;
+	text-align: right;
+}
