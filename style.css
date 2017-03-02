@@ -30,12 +30,12 @@ pre
 	overflow:auto;
 }
 
-div#contenu
+div#personnages
 {
 	padding: 0 30px 0 100px;
 }
 
-div#contenu h2
+div#personnages h2
 {
 	padding-left: 25px ;
 	line-height: 25px ;
