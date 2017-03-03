@@ -1,19 +1,25 @@
 html
 {
-  margin: 10px 0 ;
+  margin: 10px;
   padding: 0 ;
   text-align: center ;
   font:1em Courier New, monospace;
   background: #9E8479 ;
+    min-width: 500px;
 }
 
 body
 {
-	width:800px ;
+	width: auto;
 	background:#FFEFB6 ;
 	margin:0 auto;
 	text-align:justify;
 	border:2px solid #000;
+}
+
+h1
+{
+    text-align: left;
 }
 
 img
