@@ -10,18 +10,26 @@ body
 
 #menu 
 {
-    margin:0 20px 0 20px;
+    margin:0 20px 0 40px;
     padding: 0;
-    list-style: none;
+    list-style: upper-roman;
     background:#FFEFB6;
     float:left;
 	border:1px solid #000;
-    text-align: right;
+    text-align: left;
+	list-style-position: inside;
+	min-width: 160px;
 }
 
 li
 {
-    margin:5px 10px 0 10px;
+    margin:5px 10px 10px 10px;
+}
+
+a:link
+{
+	color: black;
+	
 }
 
 div#conteneur
